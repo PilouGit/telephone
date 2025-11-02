@@ -67,7 +67,7 @@ Installez les bibliothèques suivantes via le gestionnaire de bibliothèques Ard
 Dans la fonction `setup()` (ligne 210), vous pouvez modifier le numéro appelé au démarrage :
 
 ```cpp
-appellerAvecMusique("0033685561706");  // Remplacez par votre numéro
+appellerAvecMusique("XXXXXXXX");  // Remplacez par votre numéro
 ```
 
 ### Réglage du volume
